@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "image": "https://i.imgur.com/AwCeOyS.png",
+      "name": "Parenting Tips",
+      "ty": "cat",
+      "is_custom": true,
+      "custom_title": "Shorts",
+      "custom_url": "http://goparento.com/api/v1/dev/feed?key=aa559-28356-13bab-00155&lang=hi"
+    },
+    {
+      "ty": "cat",
+      "name": "English Stories",
+      "playlist": "PLVqA1CjvVac1szGitWHQa4RYHQfX6Ivjv",
+      "image": "https://i.imgur.com/0GW1Wfa.png"
+    },
+    {
+      "ty": "cat",
+      "name": "Short Stories ",
+      "playlist": "PLBl1pbrFX-e9TAvkjZjeVVh3ZxwebV77U",
+      "image": "https://i.imgur.com/xbdbfpi.png"
+    },
+    {
+      "ty": "cat",
+      "name": "Bed Time ",
+      "playlist": "PL1tEAnsEl2R6vGF97tVKYmpXCmYdOGwMB",
+      "image": "https://i.imgur.com/jKDSGwZ.png"
+    },
+    {
+      "image": "https://i0.wp.com/www.takshilalearning.com/wp-content/uploads/2017/07/LKG-Rhymes.jpg?fit=300%2C180&ssl=1",
+      "name": "LKG Rhymes",
+      "playlist": "PL8ergS9XM_8ptxoE5Sp_Aq0tf0H7qBHM_",
+      "ty": "cat"
+    },
+    {
+      "image": "https://youmeandtrends.com/wp-content/uploads/2015/11/rhymes-for-kids.png",
+      "name": "Rhymes",
+      "playlist": "PLEiENYGzO-WZ3P8XhK9odxXAH3138-SkK",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/NeQzY6_Eqxk/maxresdefault.jpg",
+      "name": "Stories",
+      "playlist": "PLXRActLQ03oZ5U9r3Z15J59tv84C3vz0l",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/3s57HonYXDQ/maxresdefault.jpg",
+      "name": "Phonics",
+      "playlist": "PLEiENYGzO-WbS5JlmogqU968FvBJ9CLe1",
+      "ty": "cat"
+    },
+    {
+      "image": "http://s2.dmcdn.net/khPkd/1280x720--NZ.jpg",
+      "name": "Numbers",
+      "playlist": "PLEiENYGzO-Wb41tPIGoKKpqs2y4I6_cIx",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/qqEHiG74xa4/maxresdefault.jpg",
+      "name": "Animals",
+      "playlist": "PLEiENYGzO-WbM1KCNwerXvqEKiKYwnMXb",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/aPM3h9UV2S0/maxresdefault.jpg",
+      "name": "Colors",
+      "playlist": "PLEiENYGzO-WZcsO1YNQd04oQw2YL-06KI",
+      "ty": "cat"
+    },
+    {
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/dc/35/76/dc357649ae15f59b0ef39d024677555e.jpg",
+      "name": "Shapes",
+      "playlist": "PLEiENYGzO-WY7YAd7-nCbhJXfo8c6CHXb",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/lJvT9CbIXRc/maxresdefault.jpg",
+      "name": "Fruits",
+      "playlist": "PLEiENYGzO-WaVcn_nC5KUVrS0Ts1jdrF1",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/wSBEt6rh3mI/maxresdefault.jpg",
+      "name": "Vegetables",
+      "playlist": "PLEiENYGzO-WbzMzCCvHcmY4B0H8EGL405",
+      "ty": "cat"
+    },
+    {
+      "image": "http://1.bp.blogspot.com/-ZttE0F5CJ7M/UJMgiN_CpJI/AAAAAAAACnw/K61G0GLQL7w/s1600/free+printable+2013+calendar+for+kids.jpg",
+      "name": "Calendar",
+      "playlist": "PLEiENYGzO-WbRBXw_aYMgMawkqRErYjI-",
+      "ty": "cat"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/NeQzY6_Eqxk/maxresdefault.jpg",
+      "name": "Hindi Stories",
+      "playlist": "PL_tTNiXTtTJCo2aTYba3RmeLDAhFi9x6t",
+      "ty": "cat"
+    }
+  ]
+}
