@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "ty": "pv",
+      "tag": "story",
+      "height": 200,
+      "url": "https://play.google.com/store/apps/details?id=baby.com.naniteremorni",
+      "image": "https://i.imgur.com/KFyVCJI.png"
+    },
+    {
+      "ty": "ad",
+      "company": "admob",
+      "type": "native"
+    }
+  ]
+}
