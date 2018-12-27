@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "ty": "ad",
+      "type": "native",
+      "company": "admob",
+      "cat": 0
+    }, {
+      "ty": "button","tag":"facts","text":"Baby kids Facts"
+    },
+  ]
+}
