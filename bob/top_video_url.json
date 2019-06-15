@@ -1,5 +1,11 @@
 {
   "data": [
+    {
+      "ty": "ad",
+      "type": "native",
+      "company": "admob",
+      "cat": 2
+}
     
   ]
 }
