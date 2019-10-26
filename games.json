@@ -24,7 +24,7 @@
       "data": [
         {
           "ty": "cat_game",
-          "name": "Top Games",
+          "name": "Top",
           "icon": "https://i.imgur.com/1MUnrax.png",
           "colorString": "#95b7e7",
           "visible": true,
@@ -487,7 +487,7 @@
           ]
         },
         {
-          "name": "Best Games",
+          "name": "Best",
           "ty": "cat_game",
           "icon": "https://i.imgur.com/vWeNMEz.png",
           "colorString": "#ffb363",
@@ -784,7 +784,7 @@
           ]
         },
         {
-          "name": "Action Games",
+          "name": "Action",
           "ty": "cat_game",
           "icon": "https://i.imgur.com/eG2kIEt.png",
           "colorString": "#ffa084",
@@ -920,7 +920,7 @@
         },
         {
           "ty": "cat_game",
-          "name": "Puzzle Games",
+          "name": "Puzzle",
           "type": "g",
           "icon": "https://i.imgur.com/8r0M9fy.png",
           "colorString": "#b6b4ff",
@@ -1443,7 +1443,7 @@
           ]
         },
         {
-          "name": "Soccer Games",
+          "name": "Soccer",
           "ty": "cat_game",
           "icon": "https://i.imgur.com/vWeNMEz.png",
           "colorString": "#b6b4ff",
