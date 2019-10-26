@@ -1711,6 +1711,8 @@
     },
     {
       "ty": "rv",
+      "type": "h",
+      "tag": "rv_1",
       "data": [
         {
           "ty": "game",
@@ -2168,15 +2170,15 @@
           "isGame": "true"
         }
       ],
-      "name": "Top Games",
       "icon": "https://i.imgur.com/1MUnrax.png",
       "colorString": "#95b7e7",
       "visible": true,
-      "type": "h",
-      "tag": "rv_1"
+      "header": "Top Games"
     },
     {
       "ty": "rv",
+      "type": "h",
+      "tag": "rv_2",
       "data": [
         {
           "ty": "game",
@@ -2467,16 +2469,17 @@
           "url": "https://play.famobi.com/shards/A-RXKDQ"
         }
       ],
-      "name": "Best Games",
+      "name": "Most Played ",
       "icon": "https://i.imgur.com/vWeNMEz.png",
       "colorString": "#ffb363",
       "visible": true,
-      "type": "h",
-      "tag": "rv_2"
+      "header": "Best Games"
     },
     {
-      "name": "Action Games",
+      "name": "Action",
       "ty": "rv",
+      "type": "h",
+      "tag": "rv_3",
       "icon": "https://i.imgur.com/eG2kIEt.png",
       "colorString": "#ffa084",
       "visible": true,
@@ -2608,13 +2611,13 @@
           "url": "https://play.famobi.com/slam-dunk-basketball/A-RXKDQ"
         }
       ],
-      "type": "h",
-      "tag": "rv_3"
+      "header": "Action Games"
     },
     {
+      "name": "Puzzle",
       "ty": "rv",
-      "name": "Puzzle Games",
       "type": "h",
+      "tag": "rv_4",
       "icon": "https://i.imgur.com/8r0M9fy.png",
       "colorString": "#b6b4ff",
       "visible": true,
@@ -2872,15 +2875,16 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "tag": "rv_4"
+      "header": "Puzzle Games"
     },
     {
       "ty": "rv",
-      "name": "Racing Games",
+      "type": "h",
+      "tag": "rv_5",
+      "name": "Racing",
       "icon": "https://i.imgur.com/rGiZYId.png",
       "colorString": "#b6b4ff",
       "visible": true,
-      "type": "h",
       "data": [
         {
           "ty": "game",
@@ -3135,11 +3139,13 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "tag": "rv_5"
+      "header": "Racing Games"
     },
     {
       "name": "Soccer Games",
       "ty": "rv",
+      "type": "h",
+      "tag": "rv_6",
       "icon": "https://i.imgur.com/vWeNMEz.png",
       "colorString": "#b6b4ff",
       "visible": true,
@@ -3397,8 +3403,7 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "type": "h",
-      "tag": "rv_6"
+      "header": "Soccer Games"
     }
   ]
 }
