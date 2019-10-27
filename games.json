@@ -2173,6 +2173,8 @@
       "icon": "https://i.imgur.com/1MUnrax.png",
       "colorString": "#95b7e7",
       "visible": true,
+      "inside_type":"g",
+      "inside_span_count":3,
       "header": "Top Games",
       "limit": 30,
       "showMoreText": "More"
@@ -2476,6 +2478,8 @@
       "colorString": "#ffb363",
       "visible": true,
       "header": "Best Games",
+      "inside_type":"g",
+      "inside_span_count":3,
       "limit": 30,
       "showMoreText": "More"
     },
@@ -2615,6 +2619,8 @@
           "url": "https://play.famobi.com/slam-dunk-basketball/A-RXKDQ"
         }
       ],
+      "inside_type":"g",
+      "inside_span_count":3,
       "header": "Action Games",
       "limit": 30,
       "showMoreText": "More"
@@ -2626,6 +2632,8 @@
       "tag": "rv_4",
       "icon": "https://i.imgur.com/8r0M9fy.png",
       "colorString": "#b6b4ff",
+      "inside_type":"g",
+      "inside_span_count":3,
       "visible": true,
       "data": [
         {
@@ -3148,6 +3156,8 @@
         }
       ],
       "header": "Racing Games",
+      "inside_type":"g",
+      "inside_span_count":3,
       "limit": 30,
       "showMoreText": "More"
     },
@@ -3159,6 +3169,8 @@
       "icon": "https://i.imgur.com/vWeNMEz.png",
       "colorString": "#b6b4ff",
       "visible": true,
+      "inside_type":"g",
+      "inside_span_count":3,
       "data": [
         {
           "name": "World Cup Pemalty 2018",
