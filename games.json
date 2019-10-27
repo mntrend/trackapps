@@ -2173,7 +2173,9 @@
       "icon": "https://i.imgur.com/1MUnrax.png",
       "colorString": "#95b7e7",
       "visible": true,
-      "header": "Top Games"
+      "header": "Top Games",
+      "limit": 30,
+      "showMoreText": "More"
     },
     {
       "ty": "rv",
@@ -2473,7 +2475,9 @@
       "icon": "https://i.imgur.com/vWeNMEz.png",
       "colorString": "#ffb363",
       "visible": true,
-      "header": "Best Games"
+      "header": "Best Games",
+      "limit": 30,
+      "showMoreText": "More"
     },
     {
       "name": "Action",
@@ -2611,7 +2615,9 @@
           "url": "https://play.famobi.com/slam-dunk-basketball/A-RXKDQ"
         }
       ],
-      "header": "Action Games"
+      "header": "Action Games",
+      "limit": 30,
+      "showMoreText": "More"
     },
     {
       "name": "Puzzle",
@@ -2875,7 +2881,9 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "header": "Puzzle Games"
+      "header": "Puzzle Games",
+      "limit": 30,
+      "showMoreText": "More"
     },
     {
       "ty": "rv",
@@ -3139,7 +3147,9 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "header": "Racing Games"
+      "header": "Racing Games",
+      "limit": 30,
+      "showMoreText": "More"
     },
     {
       "name": "Soccer Games",
@@ -3403,7 +3413,9 @@
           "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
         }
       ],
-      "header": "Soccer Games"
+      "header": "Soccer Games",
+      "limit": 30,
+      "showMoreText": "More"
     }
   ]
 }
