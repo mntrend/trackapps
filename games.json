@@ -4,18 +4,29 @@
       "ty": "pager",
       "data": [
         {
-          "ty": "game",
-          "name": "Smarty Bubbles",
-          "image": "https://i.imgur.com/ExqmHCy.jpg",
-          "url": "https://i.imgur.com/ExqmHCy.jpg",
-          "isGame": "true"
-        },
-        {
-          "ty": "game",
-          "image": "https://i.imgur.com/a2pV4ga.jpg",
-          "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ",
-          "isGame": "true"
-        }
+         "ty": "app",
+         "name": "Truck Trials",
+         "image": "https://i.imgur.com/AQpyi9v.png",
+         "url": "https://play.famobi.com/truck-trials/A-RXKDQ"
+      },
+       {
+         "ty": "app",
+         "name": "Bubbles",
+         "image": "https://i.imgur.com/29fvHs3.png",
+         "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
+      },
+      {
+         "ty": "app",
+         "name": "Chess",
+         "image": "https://i.imgur.com/MOrGND3.png",
+         "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
+      },
+       {
+         "ty": "app",
+         "name": "Basketball",
+         "image": "https://i.imgur.com/76GYenM.png",
+         "url": "https://play.famobi.com/3d-basketball/A-RXKDQ"
+      }
       ],
       "tag": "top_pager"
     },
