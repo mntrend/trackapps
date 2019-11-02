@@ -4,25 +4,25 @@
       "ty": "pager",
       "data": [
         {
-          "ty": "app",
+          "ty": "game",
           "name": "Truck Trials",
           "image": "https://i.imgur.com/AQpyi9v.png",
           "url": "https://play.famobi.com/truck-trials/A-RXKDQ"
         },
         {
-          "ty": "app",
+          "ty": "game",
           "name": "Bubbles",
           "image": "https://i.imgur.com/29fvHs3.png",
           "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
         },
         {
-          "ty": "app",
+          "ty": "game",
           "name": "Chess",
           "image": "https://i.imgur.com/MOrGND3.png",
           "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
         },
         {
-          "ty": "app",
+          "ty": "game",
           "name": "Basketball",
           "image": "https://i.imgur.com/76GYenM.png",
           "url": "https://play.famobi.com/3d-basketball/A-RXKDQ"
@@ -1724,127 +1724,127 @@
           "type": "g",
           "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Billiard Blitz Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BilliardBlitzChallengeTeaser.jpg",
          "url": "https://play.famobi.com/billiard-blitz-challenge/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "World Cup Penalty",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
          "url": "https://play.famobi.com/world-cup-penalty/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Archery World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcheryWorldTourTeaser.jpg",
          "url": "https://play.famobi.com/archery-world-tour/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Arcade Golf: NEON",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcadeGolfNeonTeaser.jpg",
          "url": "https://play.famobi.com/arcade-golf-neon/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Street Ball Star",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetBallStarTeaser.jpg",
          "url": "https://play.famobi.com/street-ball-star/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Table Tennis World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
          "url": "https://play.famobi.com/table-tennis-world-tour/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "8 Ball Billiards Classic",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
          "url": "https://play.famobi.com/8-ball-billiards-classic/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Drag Racing Club",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg",
          "url": "https://play.famobi.com/drag-racing-club/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Adventure Drivers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
          "url": "https://play.famobi.com/adventure-drivers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Moto X3M Pool Party",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg",
          "url": "https://play.famobi.com/moto-x3m-pool-party/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Goalkeeper Champ",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoalkeeperChampTeaser.jpg",
          "url": "https://play.famobi.com/goalkeeper-champ/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Chess",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dChessTeaser.jpg",
          "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Blaze Kick",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlazeKickTeaser.jpg",
          "url": "https://play.famobi.com/blaze-kick/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Bowling",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBowlingTeaser.jpg",
          "url": "https://play.famobi.com/3d-bowling/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "City Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CityDunkTeaser.jpg",
          "url": "https://play.famobi.com/city-dunk/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Shade",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorShapeTeaser.jpg",
          "url": "https://play.famobi.com/color-shape/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Thug Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ThugRacerTeaser.jpg",
          "url": "https://play.famobi.com/thug-racer/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bottle Flip Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BottleFlipChallengeTeaser.jpg",
          "url": "https://play.famobi.com/bottle-flip-challenge/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Circle Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CircleRushTeaser.jpg",
          "url": "https://play.famobi.com/circle-rush/A-RXKDQ"
@@ -1861,127 +1861,127 @@
           "type": "g",
           "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Shards",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ShardsTeaser.jpg",
          "url": "https://play.famobi.com/shards/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Arcade Golf: NEON",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcadeGolfNeonTeaser.jpg",
          "url": "https://play.famobi.com/arcade-golf-neon/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Pizza Ninja 3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PizzaNinja3Teaser.jpg",
          "url": "https://play.famobi.com/pizza-ninja-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Rainbow Star Pinball",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RainbowStarPinballTeaser.jpg",
          "url": "https://play.famobi.com/rainbow-star-pinball/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Pin",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorPinTeaser.jpg",
          "url": "https://play.famobi.com/color-pin/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tower Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TowerRushTeaser.jpg",
          "url": "https://play.famobi.com/tower-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Perfect Piano",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg",
          "url": "https://play.famobi.com/perfect-piano/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Dunk Brush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DunkBrushTeaser.jpg",
          "url": "https://play.famobi.com/dunk-brush/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Knife Rain",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KnifeRainTeaser.jpg",
          "url": "https://play.famobi.com/knife-rain/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Air Hockey",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dAirHockeyTeaser.jpg",
          "url": "https://play.famobi.com/3d-air-hockey/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Kumba Kool",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KumbaKoolTeaser.jpg",
          "url": "https://play.famobi.com/kumba-kool/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Race Right",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RaceRightTeaser.jpg",
          "url": "https://play.famobi.com/race-right/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Street Hoops 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetHoops3dTeaser.jpg",
          "url": "https://play.famobi.com/street-hoops-3d/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "City Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CityDunkTeaser.jpg",
          "url": "https://play.famobi.com/city-dunk/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Shade",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorShapeTeaser.jpg",
          "url": "https://play.famobi.com/color-shape/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Thug Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ThugRacerTeaser.jpg",
          "url": "https://play.famobi.com/thug-racer/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bottle Flip Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BottleFlipChallengeTeaser.jpg",
          "url": "https://play.famobi.com/bottle-flip-challenge/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Circle Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CircleRushTeaser.jpg",
          "url": "https://play.famobi.com/circle-rush/A-RXKDQ"
@@ -1998,127 +1998,127 @@
           "type": "g",
           "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Truck Trials",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TruckTrialsTeaser.jpg",
          "url": "https://play.famobi.com/truck-trials/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "YetiSensationTeaser",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/YetiSensationTeaser.jpg",
          "url": "https://play.famobi.com/yeti-sensation/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bus Parking 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3D_Teaser.jpg",
          "url": "https://play.famobi.com/bus-parking-3d/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Asphalt Speed Racing 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AsphaltSpeedRacing3D_Teaser.jpg",
          "url": "https://play.famobi.com/asphalt-speed-racing-3d/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Basketball",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBasketballTeaser.jpg",
          "url": "https://play.famobi.com/3d-basketball/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Chess",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dChessTeaser.jpg",
          "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Free Kick World Cup",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickWorldCup18Teaser.jpg",
          "url": "https://play.famobi.com/3d-free-kick-world-cup-18/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Air Hockey",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dAirHockeyTeaser.jpg",
          "url": "https://play.famobi.com/3d-air-hockey/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Bowling",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBowlingTeaser.jpg",
          "url": "https://play.famobi.com/3d-bowling/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Free Kick",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickTeaser.jpg",
          "url": "https://play.famobi.com/3d-free-kick/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Solitaire",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dSolitaireTeaser.jpg",
          "url": "https://play.famobi.com/3d-solitaire/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Racing Cars",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingCarsTeaser.jpg",
          "url": "https://play.famobi.com/racing-cars/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Crazy Hill Driver",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CrazyHillDriver_Teaser.jpg",
          "url": "https://play.famobi.com/crazy-hill-driver/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fallout Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FalloutRacer_Teaser.jpg",
          "url": "https://play.famobi.com/fallout-racer/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "SWOOOP",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SWOOOPTeaser.jpg",
          "url": "https://play.famobi.com/swooop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Archery World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcheryWorldTourTeaser.jpg",
          "url": "https://play.famobi.com/archery-world-tour/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "My Fairytale Unicorn",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MyFairytaleUnicornTeaser.jpg",
          "url": "https://play.famobi.com/my-fairytale-unicorn/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Word Detector",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
          "url": "https://play.famobi.com/word-detector/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Slam Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SlamDunkBasketballTeaserB.jpg",
          "url": "https://play.famobi.com/slam-dunk-basketball/A-RXKDQ"
@@ -2134,254 +2134,254 @@
           "type": "g",
            "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina-Surfer Girl",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaSurferGirlTeaser.jpg",
          "url": "https://play.famobi.com/tina-surfer-girl/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Creamy Ice",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CreamyIceTeaser.jpg",
          "url": "https://play.famobi.com/creamy-ice/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fashionista Maldives",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionistaMaldivesTeaser.jpghttps://play.famobi.com/fashionista-maldives/A-RXKDQ",
          "url": ""
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fancy Driver",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FancyDiverTeaser.jpg",
          "url": "https://play.famobi.com/fancy-diver/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Summer Lily_Teaser",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SummerLily_Teaser.jpg",
          "url": "https://play.famobi.com/summer-lily/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Pirates Of Islets",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PiratesOfIsletsTeaser.jpg",
          "url": "https://play.famobi.com/pirates-of-islets/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "My Dolhin Show 6",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MyDolphinShow6Teaser.jpg",
          "url": "https://play.famobi.com/my-dolphin-show-6/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Moto X3M Pool",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg",
          "url": "https://play.famobi.com/moto-x3m-pool-party/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Adveture Drivers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
          "url": "https://play.famobi.com/adventure-drivers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina- Great Summer Day",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaGreatSummerDayTeaser.jpg",
          "url": "https://play.famobi.com/nina-great-summer-day/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina-Great Summe Day",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaGreatSummerDayTeaser.jpg",
          "url": "https://play.famobi.com/tina-great-summer-day/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina -Surfer Girl",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaSurferGirlTeaser.jpg",
          "url": "https://play.famobi.com/nina-surfer-girl/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina wedding",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaWeddingTeaser.jpg",
          "url": "https://play.famobi.com/tina-wedding/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina Wedding",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaWeddingTeaser.jpg",
          "url": "https://play.famobi.com/nina-wedding/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fishing Frenzy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FishingFrenzyTeaser.jpg",
          "url": "https://play.famobi.com/fishing-frenzy/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Kids Puzzle Sea",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KidsPuzzleSeaTeaser.jpg",
          "url": "https://play.famobi.com/kids-puzzle-sea/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sea Bubble Shooter",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SeaBubbleShooterTeaser.jpg",
          "url": "https://play.famobi.com/sea-bubble-shooter/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fro Yo Bar",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FroYoBarTeaser.jpg",
          "url": "https://play.famobi.com/froyo-bar/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Summer Fiesta",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SummerFiestaTeaser.jpg",
          "url": "https://play.famobi.com/summer-fiesta/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Airport Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AirportRushTeaser.jpg",
          "url": "https://play.famobi.com/airport-rush/A-RXKDQ"
       },
       
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Doggy Dive",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DoggyDiveTeaser.jpg",
          "url": "https://play.famobi.com/doggy-dive/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita Crush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaCrushTeaser.jpg",
          "url": "https://play.famobi.com/fruita-crush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Tabby Island",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
          "url": "https://play.famobi.com/tabby-island/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Wanderlust",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WanderlustTeaser.jpg",
          "url": "https://play.famobi.com/wanderlust/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Treasure Link",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasureLinkTeaser.jpg",
          "url": "https://play.famobi.com/treasure-link/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange Bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Back To Candyland",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "zucchini Spaghetti Bolognese",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZucchiniSpaghettiBologneseTeaser.jpg",
          "url": "https://play.famobi.com/zucchini-spaghetti-bolognese/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Cowboys vs Martians",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CowboysVsMartiansTeaser.jpg",
          "url": "https://play.famobi.com/cowboys-vs-martians/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sort Bird",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SortBirdTeaser.jpg",
          "url": "https://play.famobi.com/sort-bird/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Ice-Cream Please",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/IceCreamPlease_Teaser.jpg",
          "url": "https://play.famobi.com/ice-cream-please/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Beach Beauty",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BeachBeauty_Teaser.jpg",
          "url": "https://play.famobi.com/beach-beauty/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Beach Sudoko",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BeachSudoku_Teaser.jpg",
          "url":"https://play.famobi.com/beach-sudoku/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fishy Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FishyRush_Teaser.jpg",
          "url": "https://play.famobi.com/fishy-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Smart Bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg",
          "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "",
          "image": "",
          "url": ""
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Back-to-candyland-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sweet-candies",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetCandiesTeaser.jpg",
          "url": "https://play.famobi.com/sweet-candies/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Block-buster",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockBusterTeaser.jpg",
          "url": "https://play.famobi.com/block-buster/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jelly-collapse",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg",
          "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
@@ -2397,254 +2397,254 @@
           "type": "g",
           "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewelish",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelishBlitzTeaser.jpg",
          "url": "https://play.famobi.com/jewelish-blitz/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Magic Jewels",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MagicJewelsTeaser.jpg",
          "url": "https://play.famobi.com/magic-jewels/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Pirates The Match",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PiratesTheMatch3Teaser.jpg",
          "url": "https://play.famobi.com/pirates-the-match-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "ATotemia Cursed",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TotemiaCursedMarblesTeaser.jpg",
          "url": "https://play.famobi.com/totemia-cursed-marbles/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Back To Candy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland4Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-4/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita Swipe",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaSwipe2Teaser.jpg",
          "url": "https://play.famobi.com/fruita-swipe-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sailor Pop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SailorPop_Teaser.jpg",
          "url": "https://play.famobi.com/sailor-pop/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Zoo Boom",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZooBoomTeaser.jpg",
          "url": "https://play.famobi.com/zoo-boom/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bubble Wood",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleWoodsTeaser.jpg",
          "url": "https://play.famobi.com/bubble-woods/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Square Stacker",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SquareStackerTeaser.jpg",
          "url": "https://play.famobi.com/square-stacker/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel Aquarium",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelAquariumTeaser.jpg",
          "url": "https://play.famobi.com/jewel-aquarium/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-christmas",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelChristmasTeaser.jpg",
          "url": "https://play.famobi.com/jewel-christmas/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Dragon-fire",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragonFireAndFuryTeaser.jpg",
          "url": "https://play.famobi.com/dragon-fire-and-fury/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruit-crush-frenzy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitCrushFrenzyTeaser.jpg",
          "url": "https://play.famobi.com/fruit-crush-frenzy/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-duel",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelDuelTeaser.jpg",
          "url": "https://play.famobi.com/jewel-duel/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Momo Pop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MomoPopTeaser.jpg",
          "url": "https://play.famobi.com/momo-pop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruit-pulp",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitPulpTeaser.jpg",
          "url": "https://play.famobi.com/fruit-pulp/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewels-mania",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelsMania_Teaser.jpg",
          "url": "https://play.famobi.com/jewels-mania/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Candy-bubble",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg",
          "url": "https://play.famobi.com/candy-bubble/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sparkle-2",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Sparkle2Teaser.jpg",
          "url": "https://play.famobi.com/sparkle-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-jungle",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelJungleTeaser.jpg",
          "url": "https://play.famobi.com/jewel-jungle/A-RXKDQ"
       },
       
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sheeps-adventure",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SheepsAdventureTeaser.jpg",
          "url": "https://play.famobi.com/sheeps-adventure/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-explode",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelExplodeTeaser.jpg",
          "url": "https://play.famobi.com/jewel-explode/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Gold-rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoldRushTeaser.jpg",
          "url": "https://play.famobi.com/gold-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Finders-critters",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FindersCrittersTeaser.jpg",
          "url": "https://play.famobi.com/finders-critters/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Unfreeze-penguins",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/UnfreezePenguinsTeaser.jpg",
          "url": "https://play.famobi.com/unfreeze-penguins/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Multisquare",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MultisquareTeaser.jpg",
          "url": "https://play.famobi.com/multisquare/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tom-2",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasuresOfMontezuma2Teaser.jpg",
          "url": "https://play.famobi.com/tom-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Gold-mine",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoldMineTeaser.jpg",
          "url": "https://play.famobi.com/gold-mine/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-ranch",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeRanchTeaser.jpg",
          "url": "https://play.famobi.com/orange-ranch/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-bubbles-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelBubbles3Teaser.jpg",
          "url": "https://play.famobi.com/jewel-bubbles-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita-crush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaCrushTeaser.jpg",
          "url": "https://play.famobi.com/fruita-crush/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Clockwork-beetles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ClockworkBeetlesTeaser.jpg",
          "url": "https://play.famobi.com/clockwork-beetles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tabby-island",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
          "url": "https://play.famobi.com/tabby-island/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Treasure-hunt",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasureHuntTeaser.jpg",
          "url": "https://play.famobi.com/treasure-hunt/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Juicy-dash",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JuicyDashTeaser.jpg",
          "url": "https://play.famobi.com/juicy-dash/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Back-to-candyland-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sweet-candies",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetCandiesTeaser.jpg",
          "url": "https://play.famobi.com/sweet-candies/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Block-buster",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockBusterTeaser.jpg",
          "url": "https://play.famobi.com/block-buster/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jelly-collapse",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg",
          "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
@@ -4388,127 +4388,127 @@
       "inside_span_count": 3,
       "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Billiard Blitz Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BilliardBlitzChallengeTeaser.jpg",
          "url": "https://play.famobi.com/billiard-blitz-challenge/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "World Cup Penalty",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
          "url": "https://play.famobi.com/world-cup-penalty/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Archery World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcheryWorldTourTeaser.jpg",
          "url": "https://play.famobi.com/archery-world-tour/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Arcade Golf: NEON",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcadeGolfNeonTeaser.jpg",
          "url": "https://play.famobi.com/arcade-golf-neon/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Street Ball Star",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetBallStarTeaser.jpg",
          "url": "https://play.famobi.com/street-ball-star/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Table Tennis World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TableTennis_WorldTour_Teaser.jpg",
          "url": "https://play.famobi.com/table-tennis-world-tour/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "8 Ball Billiards Classic",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/8BallBilliardsClassicTeaser.jpg",
          "url": "https://play.famobi.com/8-ball-billiards-classic/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Drag Racing Club",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragRacingClubTeaser.jpg",
          "url": "https://play.famobi.com/drag-racing-club/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Adventure Drivers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
          "url": "https://play.famobi.com/adventure-drivers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Moto X3M Pool Party",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg",
          "url": "https://play.famobi.com/moto-x3m-pool-party/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Goalkeeper Champ",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoalkeeperChampTeaser.jpg",
          "url": "https://play.famobi.com/goalkeeper-champ/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Chess",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dChessTeaser.jpg",
          "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Blaze Kick",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlazeKickTeaser.jpg",
          "url": "https://play.famobi.com/blaze-kick/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Bowling",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBowlingTeaser.jpg",
          "url": "https://play.famobi.com/3d-bowling/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "City Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CityDunkTeaser.jpg",
          "url": "https://play.famobi.com/city-dunk/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Shade",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorShapeTeaser.jpg",
          "url": "https://play.famobi.com/color-shape/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Thug Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ThugRacerTeaser.jpg",
          "url": "https://play.famobi.com/thug-racer/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bottle Flip Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BottleFlipChallengeTeaser.jpg",
          "url": "https://play.famobi.com/bottle-flip-challenge/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Circle Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CircleRushTeaser.jpg",
          "url": "https://play.famobi.com/circle-rush/A-RXKDQ"
@@ -4531,127 +4531,127 @@
       "inside_span_count": 3,
       "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Shards",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ShardsTeaser.jpg",
          "url": "https://play.famobi.com/shards/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Arcade Golf: NEON",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcadeGolfNeonTeaser.jpg",
          "url": "https://play.famobi.com/arcade-golf-neon/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Pizza Ninja 3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PizzaNinja3Teaser.jpg",
          "url": "https://play.famobi.com/pizza-ninja-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Rainbow Star Pinball",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RainbowStarPinballTeaser.jpg",
          "url": "https://play.famobi.com/rainbow-star-pinball/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Pin",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorPinTeaser.jpg",
          "url": "https://play.famobi.com/color-pin/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tower Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TowerRushTeaser.jpg",
          "url": "https://play.famobi.com/tower-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Perfect Piano",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PerfectPiano_Teaser.jpg",
          "url": "https://play.famobi.com/perfect-piano/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Dunk Brush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DunkBrushTeaser.jpg",
          "url": "https://play.famobi.com/dunk-brush/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Knife Rain",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KnifeRainTeaser.jpg",
          "url": "https://play.famobi.com/knife-rain/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Air Hockey",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dAirHockeyTeaser.jpg",
          "url": "https://play.famobi.com/3d-air-hockey/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Kumba Kool",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KumbaKoolTeaser.jpg",
          "url": "https://play.famobi.com/kumba-kool/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Race Right",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RaceRightTeaser.jpg",
          "url": "https://play.famobi.com/race-right/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Street Hoops 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/StreetHoops3dTeaser.jpg",
          "url": "https://play.famobi.com/street-hoops-3d/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "City Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CityDunkTeaser.jpg",
          "url": "https://play.famobi.com/city-dunk/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Color Shade",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorShapeTeaser.jpg",
          "url": "https://play.famobi.com/color-shape/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Thug Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ThugRacerTeaser.jpg",
          "url": "https://play.famobi.com/thug-racer/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bottle Flip Challenge",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BottleFlipChallengeTeaser.jpg",
          "url": "https://play.famobi.com/bottle-flip-challenge/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Circle Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CircleRushTeaser.jpg",
          "url": "https://play.famobi.com/circle-rush/A-RXKDQ"
@@ -4674,127 +4674,127 @@
       "inside_span_count": 3,
       "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Truck Trials",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TruckTrialsTeaser.jpg",
          "url": "https://play.famobi.com/truck-trials/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "YetiSensationTeaser",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/YetiSensationTeaser.jpg",
          "url": "https://play.famobi.com/yeti-sensation/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bus Parking 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BusParking3D_Teaser.jpg",
          "url": "https://play.famobi.com/bus-parking-3d/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Asphalt Speed Racing 3D",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AsphaltSpeedRacing3D_Teaser.jpg",
          "url": "https://play.famobi.com/asphalt-speed-racing-3d/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Basketball",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBasketballTeaser.jpg",
          "url": "https://play.famobi.com/3d-basketball/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Chess",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dChessTeaser.jpg",
          "url": "https://play.famobi.com/3d-chess/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Darts",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dDartsTeaser.jpg",
          "url": "https://play.famobi.com/3d-darts/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Free Kick World Cup",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickWorldCup18Teaser.jpg",
          "url": "https://play.famobi.com/3d-free-kick-world-cup-18/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Air Hockey",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dAirHockeyTeaser.jpg",
          "url": "https://play.famobi.com/3d-air-hockey/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Bowling",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dBowlingTeaser.jpg",
          "url": "https://play.famobi.com/3d-bowling/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Free Kick",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dFreeKickTeaser.jpg",
          "url": "https://play.famobi.com/3d-free-kick/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "3D Solitaire",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/3dSolitaireTeaser.jpg",
          "url": "https://play.famobi.com/3d-solitaire/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Racing Cars",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingCarsTeaser.jpg",
          "url": "https://play.famobi.com/racing-cars/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Crazy Hill Driver",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CrazyHillDriver_Teaser.jpg",
          "url": "https://play.famobi.com/crazy-hill-driver/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fallout Racer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FalloutRacer_Teaser.jpg",
          "url": "https://play.famobi.com/fallout-racer/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "SWOOOP",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SWOOOPTeaser.jpg",
          "url": "https://play.famobi.com/swooop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Archery World Tour",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ArcheryWorldTourTeaser.jpg",
          "url": "https://play.famobi.com/archery-world-tour/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "My Fairytale Unicorn",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MyFairytaleUnicornTeaser.jpg",
          "url": "https://play.famobi.com/my-fairytale-unicorn/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Word Detector",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordDetectorTeaserB.jpg",
          "url": "https://play.famobi.com/word-detector/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Slam Dunk",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SlamDunkBasketballTeaserB.jpg",
          "url": "https://play.famobi.com/slam-dunk-basketball/A-RXKDQ"
@@ -4816,254 +4816,254 @@
       "inside_span_count": 3,
        "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina-Surfer Girl",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaSurferGirlTeaser.jpg",
          "url": "https://play.famobi.com/tina-surfer-girl/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Creamy Ice",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CreamyIceTeaser.jpg",
          "url": "https://play.famobi.com/creamy-ice/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fashionista Maldives",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionistaMaldivesTeaser.jpghttps://play.famobi.com/fashionista-maldives/A-RXKDQ",
          "url": ""
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fancy Driver",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FancyDiverTeaser.jpg",
          "url": "https://play.famobi.com/fancy-diver/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Summer Lily_Teaser",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SummerLily_Teaser.jpg",
          "url": "https://play.famobi.com/summer-lily/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Pirates Of Islets",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PiratesOfIsletsTeaser.jpg",
          "url": "https://play.famobi.com/pirates-of-islets/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "My Dolhin Show 6",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MyDolphinShow6Teaser.jpg",
          "url": "https://play.famobi.com/my-dolphin-show-6/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Moto X3M Pool",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MotoX3mPoolPartyTeaser.jpg",
          "url": "https://play.famobi.com/moto-x3m-pool-party/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Adveture Drivers",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AdventureDriversTeaser.jpg",
          "url": "https://play.famobi.com/adventure-drivers/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Surfer Archer",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SurferArchersTeaserB.jpg",
          "url": "https://play.famobi.com/surfer-archers/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina- Great Summer Day",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaGreatSummerDayTeaser.jpg",
          "url": "https://play.famobi.com/nina-great-summer-day/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina-Great Summe Day",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaGreatSummerDayTeaser.jpg",
          "url": "https://play.famobi.com/tina-great-summer-day/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina -Surfer Girl",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaSurferGirlTeaser.jpg",
          "url": "https://play.famobi.com/nina-surfer-girl/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tina wedding",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaWeddingTeaser.jpg",
          "url": "https://play.famobi.com/tina-wedding/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Nina Wedding",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaWeddingTeaser.jpg",
          "url": "https://play.famobi.com/nina-wedding/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fishing Frenzy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FishingFrenzyTeaser.jpg",
          "url": "https://play.famobi.com/fishing-frenzy/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Kids Puzzle Sea",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KidsPuzzleSeaTeaser.jpg",
          "url": "https://play.famobi.com/kids-puzzle-sea/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sea Bubble Shooter",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SeaBubbleShooterTeaser.jpg",
          "url": "https://play.famobi.com/sea-bubble-shooter/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fro Yo Bar",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FroYoBarTeaser.jpg",
          "url": "https://play.famobi.com/froyo-bar/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Summer Fiesta",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SummerFiestaTeaser.jpg",
          "url": "https://play.famobi.com/summer-fiesta/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Airport Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/AirportRushTeaser.jpg",
          "url": "https://play.famobi.com/airport-rush/A-RXKDQ"
       },
       
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Doggy Dive",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DoggyDiveTeaser.jpg",
          "url": "https://play.famobi.com/doggy-dive/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita Crush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaCrushTeaser.jpg",
          "url": "https://play.famobi.com/fruita-crush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Tabby Island",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
          "url": "https://play.famobi.com/tabby-island/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Wanderlust",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WanderlustTeaser.jpg",
          "url": "https://play.famobi.com/wanderlust/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Treasure Link",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasureLinkTeaser.jpg",
          "url": "https://play.famobi.com/treasure-link/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange Bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Back To Candyland",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "zucchini Spaghetti Bolognese",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZucchiniSpaghettiBologneseTeaser.jpg",
          "url": "https://play.famobi.com/zucchini-spaghetti-bolognese/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Cowboys vs Martians",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CowboysVsMartiansTeaser.jpg",
          "url": "https://play.famobi.com/cowboys-vs-martians/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sort Bird",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SortBirdTeaser.jpg",
          "url": "https://play.famobi.com/sort-bird/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Ice-Cream Please",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/IceCreamPlease_Teaser.jpg",
          "url": "https://play.famobi.com/ice-cream-please/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Beach Beauty",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BeachBeauty_Teaser.jpg",
          "url": "https://play.famobi.com/beach-beauty/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Beach Sudoko",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BeachSudoku_Teaser.jpg",
          "url":"https://play.famobi.com/beach-sudoku/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fishy Rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FishyRush_Teaser.jpg",
          "url": "https://play.famobi.com/fishy-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Smart Bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg",
          "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "",
          "image": "",
          "url": ""
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Back-to-candyland-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sweet-candies",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetCandiesTeaser.jpg",
          "url": "https://play.famobi.com/sweet-candies/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Block-buster",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockBusterTeaser.jpg",
          "url": "https://play.famobi.com/block-buster/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jelly-collapse",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg",
          "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
@@ -5085,254 +5085,254 @@
       "inside_span_count": 3,
        "data": [
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewelish",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelishBlitzTeaser.jpg",
          "url": "https://play.famobi.com/jewelish-blitz/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Magic Jewels",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MagicJewelsTeaser.jpg",
          "url": "https://play.famobi.com/magic-jewels/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Pirates The Match",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/PiratesTheMatch3Teaser.jpg",
          "url": "https://play.famobi.com/pirates-the-match-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "ATotemia Cursed",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TotemiaCursedMarblesTeaser.jpg",
          "url": "https://play.famobi.com/totemia-cursed-marbles/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Back To Candy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland4Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-4/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita Swipe",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaSwipe2Teaser.jpg",
          "url": "https://play.famobi.com/fruita-swipe-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sailor Pop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SailorPop_Teaser.jpg",
          "url": "https://play.famobi.com/sailor-pop/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Zoo Boom",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZooBoomTeaser.jpg",
          "url": "https://play.famobi.com/zoo-boom/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Bubble Wood",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BubbleWoodsTeaser.jpg",
          "url": "https://play.famobi.com/bubble-woods/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Square Stacker",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SquareStackerTeaser.jpg",
          "url": "https://play.famobi.com/square-stacker/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel Aquarium",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelAquariumTeaser.jpg",
          "url": "https://play.famobi.com/jewel-aquarium/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-christmas",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelChristmasTeaser.jpg",
          "url": "https://play.famobi.com/jewel-christmas/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Dragon-fire",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/DragonFireAndFuryTeaser.jpg",
          "url": "https://play.famobi.com/dragon-fire-and-fury/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruit-crush-frenzy",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitCrushFrenzyTeaser.jpg",
          "url": "https://play.famobi.com/fruit-crush-frenzy/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-duel",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelDuelTeaser.jpg",
          "url": "https://play.famobi.com/jewel-duel/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Momo Pop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MomoPopTeaser.jpg",
          "url": "https://play.famobi.com/momo-pop/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruit-pulp",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitPulpTeaser.jpg",
          "url": "https://play.famobi.com/fruit-pulp/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewels-mania",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelsMania_Teaser.jpg",
          "url": "https://play.famobi.com/jewels-mania/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Candy-bubble",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CandyBubble_Teaser.jpg",
          "url": "https://play.famobi.com/candy-bubble/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sparkle-2",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/Sparkle2Teaser.jpg",
          "url": "https://play.famobi.com/sparkle-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-jungle",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelJungleTeaser.jpg",
          "url": "https://play.famobi.com/jewel-jungle/A-RXKDQ"
       },
       
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Colorpop",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ColorpopTeaser.jpg",
          "url": "https://play.famobi.com/colorpop/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Sheeps-adventure",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SheepsAdventureTeaser.jpg",
          "url": "https://play.famobi.com/sheeps-adventure/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-explode",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelExplodeTeaser.jpg",
          "url": "https://play.famobi.com/jewel-explode/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Gold-rush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoldRushTeaser.jpg",
          "url": "https://play.famobi.com/gold-rush/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Finders-critters",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FindersCrittersTeaser.jpg",
          "url": "https://play.famobi.com/finders-critters/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Unfreeze-penguins",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/UnfreezePenguinsTeaser.jpg",
          "url": "https://play.famobi.com/unfreeze-penguins/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Multisquare",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MultisquareTeaser.jpg",
          "url": "https://play.famobi.com/multisquare/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tom-2",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasuresOfMontezuma2Teaser.jpg",
          "url": "https://play.famobi.com/tom-2/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Gold-mine",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GoldMineTeaser.jpg",
          "url": "https://play.famobi.com/gold-mine/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-ranch",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeRanchTeaser.jpg",
          "url": "https://play.famobi.com/orange-ranch/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jewel-bubbles-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelBubbles3Teaser.jpg",
          "url": "https://play.famobi.com/jewel-bubbles-3/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Fruita-crush",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitaCrushTeaser.jpg",
          "url": "https://play.famobi.com/fruita-crush/A-RXKDQ"
       },
  {
-         "ty": "app",
+         "ty": "game",
          "name": "Clockwork-beetles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ClockworkBeetlesTeaser.jpg",
          "url": "https://play.famobi.com/clockwork-beetles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Tabby-island",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
          "url": "https://play.famobi.com/tabby-island/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Treasure-hunt",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TreasureHuntTeaser.jpg",
          "url": "https://play.famobi.com/treasure-hunt/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Juicy-dash",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JuicyDashTeaser.jpg",
          "url": "https://play.famobi.com/juicy-dash/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Orange-bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OrangeBubblesTeaser.jpg",
          "url": "https://play.famobi.com/orange-bubbles/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Back-to-candyland-3",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland3Teaser.jpg",
          "url": "https://play.famobi.com/back-to-candyland-3/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Sweet-candies",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetCandiesTeaser.jpg",
          "url": "https://play.famobi.com/sweet-candies/A-RXKDQ"
       },
        {
-         "ty": "app",
+         "ty": "game",
          "name": "Block-buster",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlockBusterTeaser.jpg",
          "url": "https://play.famobi.com/block-buster/A-RXKDQ"
       },
       {
-         "ty": "app",
+         "ty": "game",
          "name": "Jelly-collapse",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JellyCollapseTeaser.jpg",
          "url": "https://play.famobi.com/jelly-collapse/A-RXKDQ"
