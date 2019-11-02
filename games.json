@@ -1387,24 +1387,6 @@
             },
             {
               "ty": "game",
-              "name": "",
-              "image": "",
-              "url": ""
-            },
-            {
-              "ty": "game",
-              "name": "",
-              "image": "",
-              "url": ""
-            },
-            {
-              "ty": "game",
-              "name": "",
-              "image": "",
-              "url": ""
-            },
-            {
-              "ty": "game",
               "name": "Tabby-island",
               "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
               "url": "https://play.famobi.com/tabby-island/A-RXKDQ"
@@ -1676,12 +1658,7 @@
               "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg",
               "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
             },
-            {
-              "ty": "game",
-              "name": "",
-              "image": "",
-              "url": ""
-            },
+            
             {
               "ty": "game",
               "name": "Orange-bubbles",
@@ -2145,12 +2122,7 @@
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CreamyIceTeaser.jpg",
          "url": "https://play.famobi.com/creamy-ice/A-RXKDQ"
       },
-      {
-         "ty": "game",
-         "name": "Fashionista Maldives",
-         "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionistaMaldivesTeaser.jpghttps://play.famobi.com/fashionista-maldives/A-RXKDQ",
-         "url": ""
-      },
+     
        {
          "ty": "game",
          "name": "Fancy Driver",
@@ -4036,24 +4008,7 @@
           "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SprintClubNitroTeaser.jpg",
           "url": "https://play.famobi.com/sprint-club-nitro/A-RXKDQ"
         },
-        {
-          "ty": "game",
-          "name": "",
-          "image": "",
-          "url": ""
-        },
-        {
-          "ty": "game",
-          "name": "",
-          "image": "",
-          "url": ""
-        },
-        {
-          "ty": "game",
-          "name": "",
-          "image": "",
-          "url": ""
-        },
+       
         {
           "ty": "game",
           "name": "Tabby-island",
@@ -4335,12 +4290,6 @@
           "name": "Smart Bubbles",
           "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg",
           "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
-        },
-        {
-          "ty": "game",
-          "name": "",
-          "image": "",
-          "url": ""
         },
         {
           "ty": "game",
@@ -4827,12 +4776,6 @@
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CreamyIceTeaser.jpg",
          "url": "https://play.famobi.com/creamy-ice/A-RXKDQ"
       },
-      {
-         "ty": "game",
-         "name": "Fashionista Maldives",
-         "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionistaMaldivesTeaser.jpghttps://play.famobi.com/fashionista-maldives/A-RXKDQ",
-         "url": ""
-      },
        {
          "ty": "game",
          "name": "Fancy Driver",
@@ -5031,12 +4974,6 @@
          "name": "Smart Bubbles",
          "image": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SmartyBubbles20160620Teaser.jpg",
          "url": "https://play.famobi.com/smarty-bubbles/A-RXKDQ"
-      },
-       {
-         "ty": "game",
-         "name": "",
-         "image": "",
-         "url": ""
       },
       {
          "ty": "game",
