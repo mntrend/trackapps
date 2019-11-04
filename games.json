@@ -36,7 +36,7 @@
         {
           "ty": "cat_game",
           "name": "Top",
-          "icon": "https://i.imgur.com/1MUnrax.png",
+          "icon": "https://i.imgur.com/iKliphF.png",
           "colorString": "#95b7e7",
           "visible": true,
           "data": [
@@ -500,7 +500,7 @@
         {
           "name": "Best",
           "ty": "cat_game",
-          "icon": "https://i.imgur.com/vWeNMEz.png",
+          "icon": "https://i.imgur.com/SybLTkM.png",
           "colorString": "#ffb363",
           "visible": true,
           "data": [
@@ -1438,7 +1438,7 @@
         {
           "name": "Soccer",
           "ty": "cat_game",
-          "icon": "https://i.imgur.com/vWeNMEz.png",
+          "icon": "https://i.imgur.com/XFB8j2k.png",
           "colorString": "#b6b4ff",
           "visible": true,
           "data": [
@@ -1695,7 +1695,7 @@
         {
           "ty": "cat_game",
           "name": "Sport Games",
-          "icon": "https://i.imgur.com/rGiZYId.png",
+          "icon": "https://i.imgur.com/QacAoYF.png",
           "colorString": "#b6b4ff",
           "visible": true,
           "type": "g",
@@ -1832,7 +1832,7 @@
          {
           "ty": "cat_game",
           "name": "Arcade",
-          "icon": "https://i.imgur.com/rGiZYId.png",
+          "icon": "https://i.imgur.com/ghK3zvY.png",
           "colorString": "#b6b4ff",
           "visible": true,
           "type": "g",
@@ -1969,7 +1969,7 @@
         {
           "ty": "cat_game",
           "name": "Web Games",
-          "icon": "https://i.imgur.com/rGiZYId.png",
+          "icon": "https://i.imgur.com/MZYjSHA.png",
           "colorString": "#b6b4ff",
           "visible": true,
           "type": "g",
@@ -2105,7 +2105,7 @@
         {
           "ty": "cat_game",
           "name": "Summer Games",
-          "icon": "https://i.imgur.com/rGiZYId.png",
+          "icon": "https://i.imgur.com/dDdBjSZ.png",
           "colorString": "#b6b4ff",
           "visible": true,
           "type": "g",
