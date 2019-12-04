@@ -2,7 +2,8 @@
   "items": [
     {
       "ty": "ads",
-      "type": "big"
+      "type": "big",
+      "tag": "ad_1"
     },
     {
       "ty": "pager",
@@ -3074,7 +3075,8 @@
     },
     {
       "ty": "ads",
-      "type": "big"
+      "type": "big",
+      "tag": "ad_2"
     },
     {
       "name": "Most Played ",
@@ -3792,7 +3794,8 @@
     },
     {
       "ty": "ads",
-      "type": "common"
+      "type": "common",
+      "tag": "ad_3"
     },
     {
       "name": "Racing",
@@ -4449,7 +4452,8 @@
     },
     {
       "ty": "ads",
-      "type": "big"
+      "type": "big",
+      "tag": "ad_4"
     },
     {
       "name": "Soccer Games",
