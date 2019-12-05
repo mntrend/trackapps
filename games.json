@@ -5,17 +5,12 @@
       "type": "big",
       "tag": "ad_1"
     },
-    {
-      "ty": "pager",
-      "data": [
-        {
-          "ty": "game",
-          "name": "Gamezop",
-          "image": "https://i.imgur.com/OFZ8r9t.png",
-          "url": "https://www.gamezop.com/?id=7jnVDXEN"
-        }
-      ],
-      "tag": "top_pager"
+   {
+      "ty": "pv",
+      "name": "Jewelish",
+      "image": "https://i.imgur.com/65ltGXy.png",
+      "url": "https://www.gamezop.com/?id=7jnVDXEN",
+      "height": 200
     },
     {
       "ty": "rv",
