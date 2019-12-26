@@ -5,7 +5,7 @@
       "type": "big",
       "tag": "ad_1"
     },
-   {
+    {
       "ty": "pv",
       "name": "Jewelish",
       "image": "https://i.imgur.com/65ltGXy.png",
@@ -3066,7 +3066,8 @@
       "inside_type": "g",
       "inside_span_count": 3,
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "ads",
@@ -3375,7 +3376,8 @@
       ],
       "header": "Best Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "rv",
@@ -3517,7 +3519,8 @@
       "inside_type": "g",
       "inside_span_count": 3,
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "name": "Puzzle",
@@ -3785,7 +3788,8 @@
       ],
       "header": "Puzzle Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "ads",
@@ -4040,7 +4044,8 @@
       ],
       "header": "Racing Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "name": "Soccer Games",
@@ -4302,7 +4307,8 @@
       ],
       "header": "Soccer Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "rv",
@@ -4443,7 +4449,8 @@
       ],
       "header": "Sport Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "ads",
@@ -4590,7 +4597,8 @@
       ],
       "header": "Arcade Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "name": "Soccer Games",
@@ -4732,7 +4740,8 @@
       ],
       "header": "Web GL Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "name": "Soccer Games",
@@ -4988,7 +4997,8 @@
       ],
       "header": "Summer Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     },
     {
       "ty": "ads",
@@ -5260,7 +5270,8 @@
       ],
       "header": "Match Games",
       "limit": 30,
-      "showMoreText": "More"
+      "showMoreText": "More",
+      "adapter": "game"
     }
   ]
 }
